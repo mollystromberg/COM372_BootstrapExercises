@@ -4,5 +4,13 @@
 
 }
 .btn-primary {
-  color: white;
+  font-color: white;
+}
+
+.btn-info {
+  font-color: white;
+}
+
+.btn-danger {
+  font-color: white;
 }
